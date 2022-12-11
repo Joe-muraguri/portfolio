@@ -410,6 +410,7 @@ form .btn2{
     .copyright{
         font-size: 14px;
     }
+    
     #preloader{
         background: #fff url(images/spinner.gif) no-repeat center center;
         width: 100%;
@@ -418,8 +419,6 @@ form .btn2{
         z-index: 100;
     
     }
-   
-
 }
 
 nav .fa-solid{
