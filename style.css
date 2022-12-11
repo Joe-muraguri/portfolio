@@ -347,7 +347,6 @@ form .btn2{
     height: 100vh;
     position: fixed;
     z-index: 100;
-
 }
 @media only screen and (max-width:600px){
 
@@ -409,6 +408,14 @@ form .btn2{
     }
     .copyright{
         font-size: 14px;
+    }
+
+    #preloader{
+        background: #fff url(images/spinner.gif) no-repeat center center;
+        width: 100%;
+        height: 100vh;
+        position: fixed;
+        z-index: 100;
     }
     
     
